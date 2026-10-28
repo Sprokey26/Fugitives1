@@ -5141,6 +5141,10 @@ you looted lights on for $200,000,000, 2,606 fmj & 1,939 jhp bullets, a m82a1, a
 you looted lightview for $2,500,000, 100,000 fmj & 75,798 jhp bullets, a m82a1, and 3 credits.
 you looted lightview for $22,500,000, 41,835 fmj & 57,101 jhp bullets, a m82a1, and 3 credits.
 you looted lightview for $23,300,000, 42,267 fmj & 57,786 jhp bullets, a m82a1, and 4 credits.
+You shot 19572 JHP bullets at Lightview! He survived!
+You shot 90000 FMJ bullets at Lightview! He died!
+You took $800,000 (40%) from Lightview's corpse!
+You looted Lightview for $23,700,000, 41,430 FMJ & 57,380 JHP bullets, a M82A1, and 4 credits.
 you looted lil devil for $212,440, 2,576 fmj & 2,180 jhp bullets, a m82a1, and 3 credits.
 you looted lil j for $200,000,000, 2,217 fmj & 2,316 jhp bullets, a m82a1, and 3 credits.
 you looted lil j for $200,000,000, 2,345 fmj & 2,967 jhp bullets, a m82a1, and 2 credits.
