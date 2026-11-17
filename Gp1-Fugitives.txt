@@ -18056,7 +18056,7 @@ No armour
 You looted Clearly Keary for $4,669,999, 5,683 FMJ & 1,801 JHP bullets, a M82A1, and 3 credits.
 
 Yeay
-200m & JHP to kill
+You looted Yeay for 200m & JHP to kill
 
 You looted Shambles for $6,500,000, 2,887 FMJ & 5,046 JHP bullets, a M82A1, and 3 credits.
 
@@ -18066,7 +18066,7 @@ You looted Mas Tiempo for $2,779,610, 6,770 FMJ & 3,279 JHP bullets, a M82A1, an
 
 Head rush
 
-3m - 2k bullets
+You looted Head Rush for 3m - 2k bullets
 JHP
 
 You looted Yayaya for $3,370,000, 1,677 FMJ & 2,346 JHP bullets, a M82A1, and 4 credits.
